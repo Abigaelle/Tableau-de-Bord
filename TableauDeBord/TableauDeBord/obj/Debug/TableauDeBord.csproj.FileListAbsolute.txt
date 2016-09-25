@@ -1,0 +1,22 @@
+c:\users\sio2\documents\visual studio 2013\Projects\TableauDeBord\TableauDeBord\bin\Debug\TableauDeBord.exe.config
+c:\users\sio2\documents\visual studio 2013\Projects\TableauDeBord\TableauDeBord\bin\Debug\TableauDeBord.exe
+c:\users\sio2\documents\visual studio 2013\Projects\TableauDeBord\TableauDeBord\bin\Debug\TableauDeBord.pdb
+c:\users\sio2\documents\visual studio 2013\Projects\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.csprojResolveAssemblyReference.cache
+c:\users\sio2\documents\visual studio 2013\Projects\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.Form1.resources
+c:\users\sio2\documents\visual studio 2013\Projects\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.Properties.Resources.resources
+c:\users\sio2\documents\visual studio 2013\Projects\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.csproj.GenerateResource.Cache
+c:\users\sio2\documents\visual studio 2013\Projects\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.exe
+c:\users\sio2\documents\visual studio 2013\Projects\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.pdb
+c:\users\sio2\documents\visual studio 2013\Projects\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.Form2.resources
+C:\Users\sio2\documents\visual studio 2013\Projects\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.Form3.resources
+J:\2016-2017\TableauDeBord\TableauDeBord\bin\Debug\TableauDeBord.exe.config
+J:\2016-2017\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.exe
+J:\2016-2017\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.pdb
+J:\2016-2017\TableauDeBord\TableauDeBord\bin\Debug\TableauDeBord.exe
+J:\2016-2017\TableauDeBord\TableauDeBord\bin\Debug\TableauDeBord.pdb
+J:\2016-2017\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.csprojResolveAssemblyReference.cache
+J:\2016-2017\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.Form1.resources
+J:\2016-2017\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.Form2.resources
+J:\2016-2017\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.Form3.resources
+J:\2016-2017\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.Properties.Resources.resources
+J:\2016-2017\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.csproj.GenerateResource.Cache
