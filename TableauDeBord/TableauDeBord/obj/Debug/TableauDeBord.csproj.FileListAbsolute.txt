@@ -20,3 +20,6 @@ J:\2016-2017\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.Form2.resources
 J:\2016-2017\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.Form3.resources
 J:\2016-2017\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.Properties.Resources.resources
 J:\2016-2017\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.csproj.GenerateResource.Cache
+C:\Users\sio2\Documents\Tableau-de-Bord\TableauDeBord\TableauDeBord\bin\Debug\TableauDeBord.exe.config
+C:\Users\sio2\Documents\Tableau-de-Bord\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.exe
+C:\Users\sio2\Documents\Tableau-de-Bord\TableauDeBord\TableauDeBord\obj\Debug\TableauDeBord.pdb
